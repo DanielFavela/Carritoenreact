@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "OXIDO PSCHOTIC GOLD",
+        "author": "suplementosmx",
+        "price": 50,
+        "img": "https://www.naturesbody.com.mx/productos/m/1.1691086695.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Proteina WHEY",
+        "author": " Korourian S",
+        "price": 35,
+        "img": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1693472101-71WMrUDpSL.jpg?crop=1xw:1xh;center,top&resize=980:*"
+    },
+    {
+        "id": 3,
+        "name": "Creatina birdman",
+        "author": "Clarkson",
+        "price": 25,
+        "img": "https://mrtofu.com/cdn/shop/files/Birdman_Productos2-09.png?v=1684260278&width=480"
+    },
+    {
+        "id": 4,
+        "name": "Mens testo pro",
+        "author": "American Society of Health-System Pharmacists",
+        "price": 35,
+        "img": "https://resources.claroshop.com/medios-plazavip/mkt/6358b1854d2a9_d_nq_np_739605-mlm51184579016_082022-ojpg.jpg?scale=500&qlty=75"
+    }
+]
